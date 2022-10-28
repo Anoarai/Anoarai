@@ -1,12 +1,23 @@
-## Hi! I'm Anoarai!
+## 👋 Hi! I'm Anoarai!
 
+<p>
+Hi, My name is Kryštof Jukin and online you may find me under the name Anoarai.<br>
+I'm a Junior C#/.NET developer looking for an first oppurturnity to grow my knowledge and skill set.
+</p>
+
+## 👀 Little about me: <br>
+
+- I’m interested in programming, cosplaying, writing, singing, gaming and cooking.
+- I finished GreenFoxAcademy Junior C#/.NET developer course.
+- I am also looking at video editing, streaming, singing as current hobbies.
+- Got plenty of projects in my mind that will slowly start to appear here!
+<br>  
+  
+## 📫 How to reach me?
 ***
+- Write me an email on: kr.jukin@gmail.com
 
-- 👋 Hi, My name is Kryštof Jukin and online you may find me under the name Anoarai. I'm a Junior C#/.NET developer looking for an first oppurturnity to grow my knowledge and skill set.
-- 👀 I’m interested in programming, cosplaying, writing, singing, gaming, cooking
-- 🌱 I’m currently learning C# and Java via GreenFoxAcademy. I am also looking at video editing, streaming, singing and so much more (atleast in my mind)
-- 💞️ I’m looking to collaborate on many projects I have planned but not currently ready to undertake them just yet!
-- 📫 How to reach me? Write me an email on: kr.jukin@gmail.com
+
 
 <!---
 Anoarai/Anoarai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
