@@ -15,7 +15,7 @@ I'm a Junior C#/.NET developer looking for an first oppurturnity to grow my know
   
 ## 📫 How to reach me?
 ***
-- Write me an email on: kr.jukin@gmail.com
+- Write me an email on: angel.anoarai@gmail.com
 
 
 
